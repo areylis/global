@@ -1,0 +1,3 @@
+[submodule "submodule/ui"]
+	path = submodule/ui
+	url = https://github.com/areylis/ui.git
